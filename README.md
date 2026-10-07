@@ -1,6 +1,6 @@
 # Module 1: PPE Detection and High-Risk Alert
 
-Part of the project **AI-Based Integrated Safety And Risk System For Smart Workspace** (Team ID 15455, SAP Edunet).
+Part of the project **AI-Based Integrated Safety And Risk System For Smart Workspace**.
 
 The module detects workers and their PPE (helmet, vest, boots) from a webcam or video and classifies each worker as
 **Safe**, **Violation** or **High-Risk** (PPE missing + inside a danger zone). Problems are saved to `logs/events.csv` with a snapshot.
