@@ -1,0 +1,13 @@
+@"
+venv/
+.venv/
+runs/
+logs/
+__pycache__/
+*.pyc
+*.avi
+zone.json
+.env
+yolov8n.pt
+datasets/
+"@ | Set-Content -Encoding ascii .gitignore
